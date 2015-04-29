@@ -1,0 +1,8 @@
+{
+  "GitRepos": {
+    "third_party/src/github.com/skelterjohn/wgo-example-dep": {
+      "URI": "git@github.com:skelterjohn/wgo-example-dep",
+      "Ref": "2e5f8a0dcd894a5a008c008aed666b2202be2770"
+    }
+  }
+}
